@@ -1,5 +1,7 @@
 {
   "resources": [
+    {"id":{"name":"SPR_wall","path":"sprites/SPR_wall/SPR_wall.yy",},"order":1,},
+    {"id":{"name":"OBJ_wall","path":"objects/OBJ_wall/OBJ_wall.yy",},"order":1,},
     {"id":{"name":"OBJ_HatGuy","path":"objects/OBJ_HatGuy/OBJ_HatGuy.yy",},"order":0,},
     {"id":{"name":"SPR_Hatguy_walk","path":"sprites/SPR_Hatguy_walk/SPR_Hatguy_walk.yy",},"order":0,},
     {"id":{"name":"RM_1","path":"rooms/RM_1/RM_1.yy",},"order":0,},
